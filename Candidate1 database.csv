@@ -1,0 +1,20 @@
+Campaignid,Candidateid,CandidateName,Party ,Symbol,Gender,vote_count,campaignid,candidateid
+12345,123,Abhay,Congress,Palm,M,0,12345,123
+12345,456,Hardeep,BJP,Lotus,M,0,12345,456
+12345,789,Minakshi,AAP,Broom,F,0,12345,789
+67890,121,Abhay,Congress,Palm,M,2,67890,121
+67890,144,Hardeep,BJP,Lotus,M,0,67890,144
+67890,169,Minakshi,AAP,Broom,F,0,67890,169
+23456,196,Abhay,Congress,Palm,M,1,23456,196
+23456,225,Hardeep,BJP,Lotus,M,0,23456,225
+23456,256,Minakshi,AAP,Broom,F,0,23456,256
+13567,289,Sakshi,BJP,Lotus,F,0,13567,289
+13567,324,Akshat,AAP,Broom,M,0,13567,324
+13567,361,Akshay,Congress,Palm,M,0,13567,361
+23456,3215,Saloni,Congress,Palm,f,0,23456,3215
+36524,3256,Aarav,Congress,Palm,M,0,36524,3256
+13567,3654,Ahil,Congress,Palm,M,0,13567,3654
+67890,2315,aarav,congress,palm,m,0,67890,2315
+23456,32654,mkj,congress,palm,f,0,23456,32654
+23456,135,anih,comgress,palm,male,0,23456,135
+67890,235,aniruddh,congress,palm,male,0,67890,235
